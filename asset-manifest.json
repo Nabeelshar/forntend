@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/forntend/static/css/main.0ca2e954.css",
+    "main.js": "/forntend/static/js/main.d418e851.js",
+    "index.html": "/forntend/index.html",
+    "main.0ca2e954.css.map": "/forntend/static/css/main.0ca2e954.css.map",
+    "main.d418e851.js.map": "/forntend/static/js/main.d418e851.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ca2e954.css",
+    "static/js/main.d418e851.js"
+  ]
+}

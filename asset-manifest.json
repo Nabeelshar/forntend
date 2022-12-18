@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/forntend/static/css/main.0ca2e954.css",
-    "main.js": "/forntend/static/js/main.0cba8743.js",
+    "main.js": "/forntend/static/js/main.078476a9.js",
     "index.html": "/forntend/index.html",
     "main.0ca2e954.css.map": "/forntend/static/css/main.0ca2e954.css.map",
-    "main.0cba8743.js.map": "/forntend/static/js/main.0cba8743.js.map"
+    "main.078476a9.js.map": "/forntend/static/js/main.078476a9.js.map"
   },
   "entrypoints": [
     "static/css/main.0ca2e954.css",
-    "static/js/main.0cba8743.js"
+    "static/js/main.078476a9.js"
   ]
 }
